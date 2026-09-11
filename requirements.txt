@@ -1,0 +1,10 @@
+streamlit>=1.35.0
+streamlit-webrtc>=0.47.0
+opencv-python-headless>=4.9.0
+mediapipe==0.10.14
+numpy>=1.26.0
+requests>=2.31.0
+matplotlib>=3.8.0
+fpdf2>=2.7.9
+av>=11.0.0
+pytest>=8.0.0
